@@ -1,0 +1,20 @@
+{
+  "name": "moo-chat-voice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/runntimeterror/moo-chat-voice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/runntimeterror/moo-chat-voice/issues"
+  },
+  "homepage": "https://github.com/runntimeterror/moo-chat-voice#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1031.0"
+  }
+}
